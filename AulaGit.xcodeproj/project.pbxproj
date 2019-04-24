@@ -12,6 +12,7 @@
 		0DFCF39A22708233007294C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCF39822708233007294C1 /* Main.storyboard */; };
 		0DFCF39C22708234007294C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCF39B22708234007294C1 /* Assets.xcassets */; };
 		0DFCF39F22708234007294C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCF39D22708234007294C1 /* LaunchScreen.storyboard */; };
+		0DFCF3A7227087FB007294C1 /* Receitas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFCF3A6227087FB007294C1 /* Receitas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0DFCF39B22708234007294C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DFCF39E22708234007294C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DFCF3A022708234007294C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DFCF3A6227087FB007294C1 /* Receitas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receitas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0DFCF39B22708234007294C1 /* Assets.xcassets */,
 				0DFCF39D22708234007294C1 /* LaunchScreen.storyboard */,
 				0DFCF3A022708234007294C1 /* Info.plist */,
+				0DFCF3A6227087FB007294C1 /* Receitas.swift */,
 			);
 			path = AulaGit;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				0DFCF39722708233007294C1 /* ViewController.swift in Sources */,
 				0DFCF39522708233007294C1 /* AppDelegate.swift in Sources */,
+				0DFCF3A7227087FB007294C1 /* Receitas.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
